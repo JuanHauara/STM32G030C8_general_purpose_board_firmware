@@ -1,0 +1,2 @@
+../src/main_sm/main_sm.c:37:6:main_sm_run	8	static
+../src/main_sm/main_sm.c:32:6:main_sm_init	8	static

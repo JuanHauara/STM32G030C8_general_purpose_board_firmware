@@ -1,0 +1,4 @@
+../libraries/time_utils/time_utils.c:17:6:time_utils_init	2
+../libraries/time_utils/time_utils.c:68:6:t_delay_ms	2
+../libraries/time_utils/time_utils.c:98:6:t_delay_us	5
+../libraries/time_utils/time_utils.c:157:10:t_get_ms	1

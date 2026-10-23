@@ -1,0 +1,6 @@
+../libraries/soft_timer/soft_timer.c:26:6:soft_timer_add	2
+../libraries/soft_timer/soft_timer.c:52:6:soft_timer_check_timers	8
+../libraries/soft_timer/soft_timer.c:83:6:soft_timer_is_running	2
+../libraries/soft_timer/soft_timer.c:113:6:soft_timer_stop	2
+../libraries/soft_timer/soft_timer.c:129:6:soft_timer_resume	2
+../libraries/soft_timer/soft_timer.c:144:6:soft_timer_reset	2

@@ -1,0 +1,5 @@
+../src/inputs_monitor/inputs_monitor.c:252:13:soft_timer_handler_both	1
+../src/inputs_monitor/inputs_monitor.c:247:13:soft_timer_handler_l	1
+../src/inputs_monitor/inputs_monitor.c:242:13:soft_timer_handler_r	1
+../src/inputs_monitor/inputs_monitor.c:44:6:inputs_monitor_init	1
+../src/inputs_monitor/inputs_monitor.c:81:6:inputs_monitor_sm_run	19

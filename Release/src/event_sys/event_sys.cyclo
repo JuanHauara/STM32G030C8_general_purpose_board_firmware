@@ -1,0 +1,3 @@
+../src/event_sys/event_sys.c:27:6:event_sys_config	1
+../src/event_sys/event_sys.c:32:6:event_sys_queue_put	2
+../src/event_sys/event_sys.c:70:6:event_sys_loop	3

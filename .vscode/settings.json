@@ -1,0 +1,68 @@
+{
+    "files.encoding": "utf8",
+    "files.autoGuessEncoding": true,
+    "files.associations": {
+		"dnp3_crc.h": "c",
+		"dnp3_debug_log.h": "c",
+		"array": "c",
+		"string": "c",
+		"string_view": "c",
+		"ranges": "c",
+		"dnp3_link_layer.h": "c",
+		"string.h": "c",
+		"stdint.h": "c",
+		"stdbool.h": "c",
+		"stm32f4xx_hal.h": "c",
+		"wizchip_conf.h": "c",
+		"netctrl.h": "c",
+		"dnp3_utils.h": "c",
+		"common.h": "c",
+		"bit": "c",
+		"compare": "c",
+		"condition_variable": "c",
+		"cstddef": "c",
+		"forward_list": "c",
+		"list": "c",
+		"buffer": "c",
+		"executor": "c",
+		"internet": "c",
+		"io_context": "c",
+		"optional": "c",
+		"socket": "c",
+		"future": "c",
+		"limits": "c",
+		"memory": "c",
+		"new": "c",
+		"functional": "c",
+		"chrono": "c",
+		"algorithm": "c",
+		"system_error": "c",
+		"dnp3_ll_events_system.h": "c",
+		"usbd_cdc_if.h": "c",
+		"dnp3_transport_layer.h": "c",
+		"dnp3_types.h": "c",
+		"sockutil.h": "c",
+		"w5500_port.h": "c",
+		"dnp3_tl_events_system.h": "c",
+		"dnp3_al_events_system.h": "c",
+		"dnp3_application_layer.h": "c",
+		"random": "c",
+		"board_pinout.h": "c",
+		"dnp3_stack.h": "c",
+		"dnp3_slave.h": "c",
+		"dnp3_event.h": "c"
+	}
+
+	{
+		"editor.renderLineHighlight": "all",
+		"editor.renderLineHighlightOnlyWhenFocus": true,
+		"workbench.colorCustomizations": {
+			"editor.lineHighlightBorder": "#ffedc488"
+		}
+	}
+	
+	{
+		"chat.useAgentsMdFile": true,
+		"chat.useNestedAgentsMdFiles": false
+	}
+}
